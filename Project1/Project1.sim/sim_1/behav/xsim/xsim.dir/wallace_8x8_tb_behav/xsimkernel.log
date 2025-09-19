@@ -1,7 +1,0 @@
-Running: xsim.dir/wallace_8x8_tb_behav/xsimk.exe -simmode gui -wdb wallace_8x8_tb_behav.wdb -simrunnum 0 -socket 53724
-Design successfully loaded
-Design Loading Memory Usage: 10916 KB (Peak: 10916 KB)
-Design Loading CPU Usage: 15 ms
-Simulation completed
-Simulation Memory Usage: 11740 KB (Peak: 11740 KB)
-Simulation CPU Usage: 30 ms
