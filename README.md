@@ -32,6 +32,13 @@ This repository contains a **structural Verilog implementation** of an 8×8 unsi
 
 ---
 
+## 📄 Report & Schematics  
+
+You can view the detailed report, including block diagrams and schematic drawings, at:  
+[Wallace Adder Schematics (PDF)](https://github.com/ReewajAdhikari/Wallace-Multiplier/blob/main/WallaceAdder%20Schematics.pdf)
+
+---
+
 ## 🚦 Running the Project  
 1. Clone the repository.  
 2. Open in **Vivado** or **ModelSim**.  
@@ -52,3 +59,4 @@ The full report is available in [`/docs/Project1_Report.pdf`](./docs/Project1_Re
 
 ## 📌 Notes  
 This project was developed as part of a **digital design coursework** to explore efficient hardware multipliers and their trade-offs compared to conventional array multipliers.  
+
