@@ -49,7 +49,7 @@ You can view the detailed report, including block diagrams and schematic drawing
 ---
 
 ## 📝 Documentation  
-The full report is available in [`/docs/Project1_Report.pdf`](./docs/Project1_Report.pdf), including:  
+The full report is available in [`/docs/Project1_Report.pdf`]([/](https://github.com/ReewajAdhikari/Wallace-Multiplier/blob/main/8x8%Wallace%Report.pdf), including:  
 - Block and gate-level diagrams  
 - Gate count and design complexity  
 - Simulation results and analysis  
